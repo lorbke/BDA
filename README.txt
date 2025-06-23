@@ -1,9 +1,1 @@
-fragestellung
-
-explorative datenanalyse (entdecken von mustern und erlangen von erkenntnissen, um danach richtige methodiken für hyptothese und datensatz zu wählen)
-
-statistische methoden und hypothesentests
-	null hypothese
-	andere hypothesen
-
-discussion of the results
+Bitte lesen Sie zunächst die Analyseprojekt.pdf. Hier wird erklärt, wie das Projekt aufgebaut ist und nach welcher Methodik vorgegangen wird. An entsprechender Stelle wird dann auf die Jupyter Notebooks verwiesen.
